@@ -454,8 +454,8 @@ void simulatePokerGame()
         PokerGame("Winner is player " + to_string(winner) + "\n");
         
     }
-    cout << "Winner of the POKER GAME considering all rounds is player " << winner << endl;
-    PokerGame("Winner of the POKER GAME considering all rounds is player " + to_string(winner) + "\n");
+    cout << "Winner of the Poker Game considering all rounds is player " << winner << endl;
+    PokerGame("Winner of the Poker Game considering all rounds is player " + to_string(winner) + "\n");
 }
 
 int main()
