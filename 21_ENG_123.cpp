@@ -9,7 +9,7 @@
 
 using namespace std;
 
-// class for card shapes
+// class for card shapes(spades,clubs,hearts,diamonds)
 enum shapesOfCards
 {
     spades,clubs,hearts,diamonds
