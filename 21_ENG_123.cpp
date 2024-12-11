@@ -345,7 +345,7 @@ void simulatePokerGame()
     int noOfRounds = 0;
     int winner = 0;
 
-    cout << "Number of players playing the POKER GAME: ";
+    cout << "Number of players playing the Poker Game: ";
     cin >> noOfPlayers;
     noOfPlayers++; 
 
